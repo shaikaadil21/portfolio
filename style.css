@@ -1,0 +1,74 @@
+body
+{
+    background-image: url('./sunset-1373171_1280.jpg');
+    background-size: cover;
+    background-repeat: no-repeat ;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    z-index: inherit;
+}
+
+*
+{
+margin: 0;
+padding: 0;
+}
+
+.total
+{
+    text-align: center;
+    padding: 180px;
+}
+
+#userid
+{
+    width: 200px;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+#word
+{
+    width: 200px;
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    padding-left: 8px;
+}
+
+#butt
+{
+    width: px;
+    height: 30px;
+    padding-left: 3px;
+    padding-top: 1px;
+}
+
+a
+{
+    float: center;
+    background-color: rgb(217, 213, 213);
+}
+
+#foot
+{
+    float: left;
+}
+
+.navbar-brand
+{
+    background-color: rgb(20, 20, 19);
+}
+
+.dropdown-toggle:not(:focus) {
+    outline: 0;
+}
+
+.login
+{
+    text-align: center;
+}
+
