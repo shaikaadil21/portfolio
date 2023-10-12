@@ -4,7 +4,7 @@ body
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
-    margin: 0;
+    margin: 10px;
     padding: 0;
     z-index: inherit;
     object-fit: cover;
@@ -123,3 +123,33 @@ a
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
   }
+
+  .login
+  {
+    background: #908b8b;
+  width: 500px;
+  margin: 6px auto;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+          flex-direction: column;
+  border-radius: 10px;
+  box-shadow:0 0 2px 25px rgba(0, 0, 0, 0.2);
+  padding: 0px;
+  
+  }
+
+  .form
+  {
+    padding-bottom: 30px;
+  }
+
+  .bhai
+  {
+        padding-bottom: 20px;
+  }
+
+  @media (min-width: 575.98px) and (max-width: 1399.98px) {
+    
+   }
