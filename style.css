@@ -133,5 +133,8 @@ font-family: sans-serif;
     padding-bottom: 50px;
   }
 
-
+.sticky-top
+{
+    position: fixed;
+}
    
