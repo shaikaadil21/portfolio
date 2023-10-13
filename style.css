@@ -61,7 +61,7 @@ a
 
 .navbar-brand
 {
-    background-color: rgb(20, 20, 19);
+    background-color: rgb(11, 11, 11);
 }
 
 .dropdown-toggle:not(:focus) {
@@ -135,21 +135,14 @@ a
   -webkit-box-direction: normal;
           flex-direction: column;
   border-radius: 10px;
-  box-shadow:0 0 2px 25px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 25px rgba(255, 251, 251, 0.2);
   padding: 0px;
-  
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
   .form
   {
-    padding-bottom: 30px;
+    padding-bottom: 50px;
   }
 
-  .bhai
-  {
-        padding-bottom: 20px;
-  }
-
-  @media (min-width: 575.98px) and (max-width: 1399.98px) {
-    
-   }
+   
