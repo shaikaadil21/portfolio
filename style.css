@@ -12,8 +12,7 @@ body
 
 *
 {
-margin: 0;
-padding: 0;
+padding: none;
 }
 
 .total
@@ -27,8 +26,9 @@ padding: 0;
     width: 200px;
     height: 20px;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     padding-left: 8px;
+    
 }
 
 #word
@@ -36,27 +36,15 @@ padding: 0;
     width: 200px;
     height: 20px;
     border: none;
-    border-radius: 10px;
+    border-radius: 5px;
     padding-left: 8px;
 }
 
 #butt
 {
-    width: px;
     height: 30px;
     padding-left: 3px;
     padding-top: 1px;
-}
-
-a
-{
-    float: center;
-    background-color: rgb(217, 213, 213);
-}
-
-#foot
-{
-    float: left;
 }
 
 .navbar-brand
@@ -137,12 +125,13 @@ a
   border-radius: 10px;
   box-shadow: 0 2px 25px rgba(255, 251, 251, 0.2);
   padding: 0px;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-family: sans-serif;
   }
 
   .form
   {
     padding-bottom: 50px;
   }
+
 
    
